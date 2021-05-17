@@ -1,0 +1,18 @@
+.img-thumbnail{
+   height: 200px;
+   width: 150px;
+}
+body{
+   background-image: url(./imagenes/Panadería\ Del\ Garabato\,\ Modelo\ De\ Las\ Tortas\ Fondo\ Linear\ Del\ Vintage\ Ilustración\ del\ Vector\ -\ Ilustración\ de\ lineal\,\ arte_\ 70785774.jpg);
+}
+.shadow-lg{
+    color: rgb(158, 61, 4);
+   
+}
+
+.return{
+   color: brown;
+}
+.button{
+ background-color: brown;
+}

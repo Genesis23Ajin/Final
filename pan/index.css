@@ -1,0 +1,20 @@
+body{
+    background-image: url(./imagenes/Pan\ Tablero\ De\ Pan\ Panadería\ Promoción\ De\ Pasteles.jpg);
+  }
+  
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */ 
+   
+} 
+h5 { 
+ color: white;
+} 
+p { 
+color: white;
+}
+.btn-check{
+    color: black;
+}
+
